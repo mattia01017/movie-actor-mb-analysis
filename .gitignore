@@ -166,4 +166,4 @@ cython_debug/
 *.csv
 *.txt
 .vscode/
-*.json
+baskets/
