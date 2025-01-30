@@ -167,3 +167,7 @@ cython_debug/
 *.txt
 .vscode/
 baskets/
+
+*.aux
+*.log
+*.gz
